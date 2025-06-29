@@ -35,4 +35,31 @@ A full-featured **Pharmacy Management System** built using **Python**, **Tkinter
 
 ---
 
+## 🧠 Future Improvements
+
+- [ ] 🔐 Add login authentication for secure access
+- [ ] 📊 Export records to PDF or Excel
+- [ ] 📅 Use a date picker for issue and expiry dates
+- [ ] 📦 Add stock alerts for low inventory
+- [ ] 👥 Implement user roles (Admin, Staff)
+- [ ] 📱 Create a responsive web version using Flask or Django
+- [ ] 💬 Add multilingual support (e.g., Hindi, Assamese)
+- [ ] 📈 Add analytics for medicine usage trends
+
+---
+
+
+## 🙋‍♂️ Author
+
+**Kunal Purohit**
+
+[![GitHub](https://img.shields.io/badge/GitHub-KunalInTech-181717?style=for-the-badge&logo=github)](https://github.com/KunalInTech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Purohit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-purohit-a95a422b0/)
+
+📧 Email: purohitkunal77@gmail.com
+
+---
+
+
+
 
